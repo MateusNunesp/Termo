@@ -34,3 +34,5 @@ Como o projeto foi feito puramente com tecnologias nativas da web (Vanilla), nã
 1. Baixe os arquivos deste repositório.
 2. Dê um duplo clique no arquivo `.html` principal.
 3. O jogo abrirá automaticamente no seu navegador padrão e já estará pronto para jogar!
+
+<img width="796" height="447" alt="image" src="https://github.com/user-attachments/assets/6c143e5f-c0c3-4560-b8b0-28ecd94c35f8" />
